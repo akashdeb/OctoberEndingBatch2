@@ -13,6 +13,7 @@ public class ToCreateCustomerTest extends BaseClass {
 		
 	
 		System.out.println("The customer is created");
+		System.out.println("The customer is created");
 		
 		
 	}
